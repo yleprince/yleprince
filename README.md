@@ -1,13 +1,8 @@
 ![Yrieix's GitHub Banner](./assets/banner.jpeg)
 
+👋 Welcome on my github profile page ☀️
 
-### Hi there 👋
-
-Welcome on my github profile page ☀️
-
-
-
-# 📩 Latest Blog Posts
+Visit my personal website here [https://yrieix.com](https://yrieix.com/), or check out my latest articles 📩 below 👇
 <!-- BLOG-POST-LIST:START -->
 - [What you should know about Facebook](https://medium.com/@yrieix/what-you-should-know-about-facebook-13405a61279b?source=rss-99e162380a3f------2)
 - [My COVID-19 project got viral.](https://towardsdatascience.com/how-to-make-viral-project-ca1a71176d45?source=rss-99e162380a3f------2)
