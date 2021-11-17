@@ -1,4 +1,4 @@
-![Yrieix's GitHub Banner](./assets/banner.jpeg) 
+![Yrieix's GitHub Banner](./assets/banner.jpeg)
 
 👋 Welcome on my github profile page ☀️
 
